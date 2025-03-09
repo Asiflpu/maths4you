@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free Math Resources (Class 1-10)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 15px;
+            font-size: 24px;
+        }
+        .container {
+            margin: 20px;
+        }
+        .class-links a {
+            display: block;
+            padding: 10px;
+            margin: 5px;
+            background-color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+            color: #0073e6;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #0073e6;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Free Math Resources (Class 1-10)
+    </header>
+    <div class="container">
+        <h2>Select Your Class</h2>
+        <div class="class-links">
+            <a href="#">Class 1</a>
+            <a href="#">Class 2</a>
+            <a href="#">Class 3</a>
+            <a href="#">Class 4</a>
+            <a href="#">Class 5</a>
+            <a href="#">Class 6</a>
+            <a href="#">Class 7</a>
+            <a href="#">Class 8</a>
+            <a href="#">Class 9</a>
+            <a href="#">Class 10</a>
+        </div>
+    </div>
+    <footer>
+        &copy; 2025 Free Math Resources | Created by Mohammad Asif
+    </footer>
+</body>
+</html>
